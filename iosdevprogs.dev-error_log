@@ -1,0 +1,58 @@
+[Mon Nov 07 18:25:25.758203 2016] [:error] [pid 1318] [client 127.0.0.1:49702] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:25:26.834203 2016] [:error] [pid 1318] [client 127.0.0.1:49702] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:25:27.548480 2016] [:error] [pid 1318] [client 127.0.0.1:49702] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:25:28.097553 2016] [:error] [pid 1318] [client 127.0.0.1:49702] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:25:58.951623 2016] [:error] [pid 1319] [client 127.0.0.1:49707] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:26:04.189409 2016] [:error] [pid 1611] [client 127.0.0.1:49708] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat, referer: http://iosdevprogs.dev/testmvc/
+[Mon Nov 07 18:26:24.760488 2016] [:error] [pid 1315] [client 127.0.0.1:49711] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:26:24.847858 2016] [:error] [pid 1316] [client 127.0.0.1:49710] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:27:02.323218 2016] [:error] [pid 1317] [client 127.0.0.1:49712] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:28:59.989073 2016] [:error] [pid 3177] [client 127.0.0.1:49715] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:29:00.014289 2016] [:error] [pid 3176] [client 127.0.0.1:49716] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:29:03.600275 2016] [:error] [pid 3177] [client 127.0.0.1:49715] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:29:11.390926 2016] [:error] [pid 3178] [client 127.0.0.1:49717] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat, referer: http://iosdevprogs.dev/
+[Mon Nov 07 18:34:18.130718 2016] [:error] [pid 3500] [client 127.0.0.1:49751] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:34:18.195062 2016] [:error] [pid 3501] [client 127.0.0.1:49752] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:34:22.062357 2016] [:error] [pid 3500] [client 127.0.0.1:49751] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:36:19.034480 2016] [:error] [pid 3502] [client 127.0.0.1:49761] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:38:06.288916 2016] [core:alert] [pid 3500] [client 127.0.0.1:49778] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$index.php'
+[Mon Nov 07 18:38:06.883369 2016] [core:alert] [pid 3503] [client 127.0.0.1:49779] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$index.php'
+[Mon Nov 07 18:38:07.858922 2016] [core:alert] [pid 3502] [client 127.0.0.1:49780] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$index.php'
+[Mon Nov 07 18:38:12.660860 2016] [:error] [pid 3511] [client 127.0.0.1:49781] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:38:13.456635 2016] [:error] [pid 3511] [client 127.0.0.1:49781] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:38:29.712238 2016] [core:error] [pid 3499] [client 127.0.0.1:49784] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:29.712343 2016] [core:error] [pid 3499] [client 127.0.0.1:49784] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:30.671142 2016] [core:error] [pid 3537] [client 127.0.0.1:49785] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:30.671246 2016] [core:error] [pid 3537] [client 127.0.0.1:49785] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:31.287029 2016] [core:error] [pid 3501] [client 127.0.0.1:49786] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:31.287116 2016] [core:error] [pid 3501] [client 127.0.0.1:49786] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:44.950963 2016] [core:error] [pid 3500] [client 127.0.0.1:49789] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:44.951048 2016] [core:error] [pid 3500] [client 127.0.0.1:49789] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:45.639629 2016] [core:error] [pid 3503] [client 127.0.0.1:49790] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:45.639717 2016] [core:error] [pid 3503] [client 127.0.0.1:49790] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 18:38:59.406870 2016] [core:alert] [pid 3511] [client 127.0.0.1:49792] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$'
+[Mon Nov 07 18:39:00.149682 2016] [core:alert] [pid 3499] [client 127.0.0.1:49793] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$'
+[Mon Nov 07 18:39:03.686735 2016] [core:alert] [pid 3537] [client 127.0.0.1:49794] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$'
+[Mon Nov 07 18:39:03.721601 2016] [core:alert] [pid 3501] [client 127.0.0.1:49795] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^(.*)$'
+[Mon Nov 07 18:43:50.839582 2016] [:error] [pid 3502] [client 127.0.0.1:49860] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:43:51.566121 2016] [:error] [pid 3502] [client 127.0.0.1:49860] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:43:56.744135 2016] [:error] [pid 3511] [client 127.0.0.1:49861] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:44:06.783231 2016] [:error] [pid 3503] [client 127.0.0.1:49864] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:44:07.440018 2016] [:error] [pid 3503] [client 127.0.0.1:49864] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:44:09.607559 2016] [:error] [pid 3537] [client 127.0.0.1:49865] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:44:10.462202 2016] [:error] [pid 3537] [client 127.0.0.1:49865] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:44:10.504629 2016] [:error] [pid 3503] [client 127.0.0.1:49864] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:44:16.408229 2016] [:error] [pid 3503] [client 127.0.0.1:49864] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat, referer: http://iosdevprogs.dev/
+[Mon Nov 07 18:45:16.485556 2016] [:error] [pid 3500] [client 127.0.0.1:49874] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat
+[Mon Nov 07 18:57:21.283210 2016] [core:alert] [pid 3511] [client 127.0.0.1:49999] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^testmvc/index.php(.*)$'
+[Mon Nov 07 18:57:22.032269 2016] [core:alert] [pid 3503] [client 127.0.0.1:50000] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^testmvc/index.php(.*)$'
+[Mon Nov 07 18:57:22.293907 2016] [core:alert] [pid 3499] [client 127.0.0.1:50001] /Users/denis/Sites/iosdevprogs.dev/testmvc/.htaccess: RewriteRule: bad argument line '^testmvc/index.php(.*)$'
+[Mon Nov 07 18:57:52.704062 2016] [:error] [pid 3500] [client 127.0.0.1:50005] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat, referer: http://iosdevprogs.dev/testmvc/
+[Mon Nov 07 18:57:52.730995 2016] [:error] [pid 3501] [client 127.0.0.1:50006] script '/Users/denis/Sites/iosdevprogs.dev/index.php' not found or unable to stat, referer: http://iosdevprogs.dev/testmvc/
+[Mon Nov 07 19:07:20.898396 2016] [core:error] [pid 3503] [client 127.0.0.1:50110] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 19:07:20.898476 2016] [core:error] [pid 3503] [client 127.0.0.1:50110] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 19:07:21.677968 2016] [core:error] [pid 3499] [client 127.0.0.1:50111] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 19:07:21.678057 2016] [core:error] [pid 3499] [client 127.0.0.1:50111] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Nov 07 19:20:02.433301 2016] [core:alert] [pid 5627] [client 127.0.0.1:50241] /Users/denis/Sites/iosdevprogs.dev/.htaccess: RewriteRule: bad flag delimiters
+[Mon Nov 07 19:20:03.425329 2016] [core:alert] [pid 5612] [client 127.0.0.1:50242] /Users/denis/Sites/iosdevprogs.dev/.htaccess: RewriteRule: bad flag delimiters
+[Mon Nov 07 19:20:03.857284 2016] [core:alert] [pid 5613] [client 127.0.0.1:50243] /Users/denis/Sites/iosdevprogs.dev/.htaccess: RewriteRule: bad flag delimiters
